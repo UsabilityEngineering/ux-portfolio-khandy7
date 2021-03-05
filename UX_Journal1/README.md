@@ -6,22 +6,22 @@
   
 The printer I will be unpacking and setting up is the Epson EcoTank ET-2760. A picture of the front of the box is shown below:
 
-![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/Front_box.png?raw=true)
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/Pictures/Front_box.png?raw=true)
 
 And here is a picture of the printer once it was taken out of the box:
 
-![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/printer.png?raw=true)
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/Pictures/printer.png?raw=true)
 
   On the box the printer states that it has easy to fill ink, two sided printing, and easy wireless printing, so I will be looking out for these features as I go along as well since they seem to be the biggest appeal of this printer.
 
   My first impressions of the UI were good, it does not look overly complicated and the printer has a sleek design. However, beginning the set up process I immediatly noticed that the instructions were much larger than I anticipated. Here is the front and back of the instructions page:
   
-![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/front_page.png?raw=true)
-![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/back_page.png?raw=true)
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/Pictures/front_page.png?raw=true)
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/Pictures/back_page.png?raw=true)
 
   In my experiences, when setting up a printer typically you put in the ink cartridge, plug in the printer, and download the necessary software on the device you want to print from. It is the same for this printer, however the steps ended up being more complicated than other printers I have set up. The ink is not a cartridge for this printer but rather it is bottles of ink which you dispense into 'filling ports'. Once all of the different colors are put into the appropriate ports, then you have to turn the printer on and let the ink 'charge' which takes about ten minutes. This seemed odd to me at first, but I read about it and it supposedly makes the ink last much longer than the old cartridge system did. Ink going fast was a huge problem with old printers, so if the extra hassel of putting each color in individually and waiting 10 minutes for it to charge really makes a difference, then I believe it is a tradeoff worth making. I attached below an image of me inserting the ink, which show how this new system works: 
   
-![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/inserting_ink.png?raw=true)
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/Pictures/inserting_ink.png?raw=true)
   
   The biggest problem I have with this new way of inserting ink is not the time it takes, but rather the way they designed how it works. In the above picture, you can see I have to stay and hold up the scanner which covers the ink ports as the ink is inserted, otherwise the lid hits the ink bottle out of place. This made the inserting of the ink much more annoying as I had to sit there and watch them all individually fill up while I held the lid in place. This annoyance could have easily been avoided with an additional small piece, like a kickstand of some sort for the lid. Small things like this make the **satisfaction** of using a new piece of technology much lower. Instead of being excited over my new printer, I was bothered that I had to sit there and hold a piece up while waiting for the ink to fill.
   
