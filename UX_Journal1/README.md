@@ -9,3 +9,5 @@ The printer I will be unpacking and setting up is the Epson EcoTank ET-2760. A p
 
 And here is a picture of the actual once it was taken out of the box:
 ![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/printer.png?raw=true)
+
+My first impressions of the UI were good, it does not look over complicated and the printer has a sleek design. However, beginning the set up process I immediatly noticed that the instructions were much larger than I anticipated. Here is the front and back of the instructions for set up page:
