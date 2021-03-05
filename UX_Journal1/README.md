@@ -8,3 +8,4 @@ The printer I will be unpacking and setting up is the Epson EcoTank ET-2760. A p
 ![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/Front_box.png?raw=true)
 
 And here is a picture of the actual once it was taken out of the box:
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/printer.png?raw=true)
