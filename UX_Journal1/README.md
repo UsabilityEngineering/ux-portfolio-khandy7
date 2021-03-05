@@ -14,7 +14,7 @@ And here is a picture of the printer once it was taken out of the box:
 
   On the box the printer states that it has easy to fill ink, two sided printing, and easy wireless printing, so I will be looking out for these features as I go along as well since they seem to be the biggest appeal of this printer.
 
-  My first impressions of the UI were good, it does not look overly complicated and the printer has a sleek design. However, beginning the set up process I immediatly noticed that the instructions were much larger than I anticipated. Here is the front and back of the instructions for set up page:
+  My first impressions of the UI were good, it does not look overly complicated and the printer has a sleek design. However, beginning the set up process I immediatly noticed that the instructions were much larger than I anticipated. Here is the front and back of the instructions page:
   
 ![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/front_page.png?raw=true)
 ![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/back_page.png?raw=true)
