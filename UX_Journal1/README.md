@@ -7,7 +7,7 @@ For my first Journal, I decided to document my exeriences with a printer. I had 
 The printer I will be unpacking and setting up is the Epson EcoTank ET-2760. A picture of the front of the box is shown below:
 ![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/Front_box.png?raw=true)
 
-And here is a picture of the actual once it was taken out of the box:
+And here is a picture of the printer once it was taken out of the box:
 ![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal1/printer.png?raw=true)
 
 On the box the printer states that it has easy to fill ink, two sided printing, and easy wireless printing, so I will be looking out for these features as I go along as well since they seem to be the biggest appeal of this printer.
