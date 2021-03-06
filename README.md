@@ -6,3 +6,4 @@
 
 ## UX Journal
 
+[Journal 1 - New Printer Experience]()
