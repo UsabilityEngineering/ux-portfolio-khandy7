@@ -4,5 +4,5 @@
 
 For this journal, I decided to document my experience with my coffee machine. I got a new Keurig coffee machine a few months and have enjoyed using it so far, so I thought I would examine the **learnability** and **efficiency** of it. The model of Keurig I have is the Keurig K-Duo Plus Coffee Maker.
 
-<img src="https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/fullView.png" width=350 align=middle>
+<img src="https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/fullView.png" width=350 align=left>  <img src="https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/topView.png" width=350 align=right> 
 
