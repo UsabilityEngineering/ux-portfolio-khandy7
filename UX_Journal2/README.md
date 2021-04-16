@@ -25,3 +25,7 @@ Once I filled up the water container, the "Add Water" message went away and the 
 
 After deciding which type of coffee you would like to make, the numbers of the UI begin to blink to let you know that you need to select a size for your coffee. Along with this, a single word pops up to let you know what exactly those numbers represent. If you selected the Keurig Pod type, then the word "Oz" pops up to let you know the numbers represent ounces and if you selected the Pot button, then the word "Cups" pops up to let you know the numbers represent cups of coffee. Below is an example picture of what it looks like if you pressed the Keurig pod button:
 <img src="https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/ounces.png" width=350> 
+
+After selecting which size you want, the middle "brew" button begins to blink to let you know that you need to click it to confirm your choices and begin brewing. Once clicked, the machine takes it from there and dispenses whatever options the user selected.
+
+Overall, I feel like the **efficiency** of this product is very good. It does multiple things to make the brewing of the coffee quicker and easier for the user to accomplish. The **learnability** of this product is also done fairly well. The blinking of buttons gives a good reference as to what is needed next from the user, however a couple more words added to the UI would make it even easier to understand. 
