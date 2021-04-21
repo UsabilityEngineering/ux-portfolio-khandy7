@@ -2,7 +2,7 @@
 
 ## Kyle Handy, 04/16/2021
 
-For this journal, I decided to document my experience with my coffee machine. I got a new Keurig coffee machine a few months ago and have enjoyed using it so far, so I thought I would analyze an interaction with it. My goal for this interaction is to document the **learnability** and **efficiency** of this coffee machine. The model of Keurig I have is the Keurig K-Duo Plus Coffee Maker.
+For this journal, I decided to document my experience with my coffee machine. I got a new Keurig coffee machine a few months ago and have enjoyed using it so far, so I thought I would analyze an interaction with it. My goal for this interaction is to document the **efficiency** of this coffee machine. The model of Keurig I have is the Keurig K-Duo Plus Coffee Maker.
 
 Here is a picture of the machine to show the general design.
   
