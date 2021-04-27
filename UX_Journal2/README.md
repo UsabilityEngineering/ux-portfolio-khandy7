@@ -6,15 +6,15 @@ For this journal, I decided to document my experience with my coffee machine. I 
 
 Here is a picture of the machine to show the general design.
 
-![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/fullView.png)
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/fullView.png?raw=true)
 
 Here is a picture of the top view, it shows the UI and where the coffee goes. This machine allows you to make either single cups of coffee using a pod or make entire pots of coffee. The two bottom buttons are how you decide which type of coffee you would like to make.
   
-![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/topView.png)
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/topView.png?raw=true)
 
 Before turning the machine on, I emptied the water container and all coffee to see how it would handle it. Once everything was emptied, I turned the machine on and went about making a cup of coffee. Immediately, the machine let me know that it needed water in order to continue, here is a picture of what it looked like.
 
-![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/addWater.png)
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/addWater.png?raw=true)
 
 This is an example of how the machine has good **efficiency**. The machine could just let you try to make coffee with no water and silently fail, but instead it tells you right away (before I even put the coffee in) that it needs more water in order to work. This makes the machine more **efficient** as it saves the user time by not having to check the water level every time they want a cup of coffee, the machine will just let them know if it needs more.
 
@@ -24,7 +24,7 @@ Once I filled up the water container, the "Add Water" message went away and the 
 
 After deciding which type of coffee you would like to make, the numbers of the UI begin to blink to let you know that you need to select a size for your coffee. Along with this, a single word pops up to let you know what exactly those numbers represent. If you selected the Keurig Pod type, then the word "Oz" pops up to let you know the numbers represent ounces and if you selected the Pot button, then the word "Cups" pops up to let you know the numbers represent cups of coffee. This is another example of good **learnability** with this product. Below is an example picture of what it looks like if you pressed the Keurig pod button:
 
-![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/ounces.png)
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/ounces.png?raw=true)
 
 After selecting which size you want, the middle "brew" button begins to blink to let you know that you need to click it to confirm your choices and begin brewing. Once clicked, the machine takes it from there and dispenses whatever options the user selected.
 
