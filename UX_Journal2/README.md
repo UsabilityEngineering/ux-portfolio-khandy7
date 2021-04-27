@@ -8,6 +8,7 @@ Here is a picture of the machine to show the general design.
   
 <img src="https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/fullView.png" width=350 aign=left>
 
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-khandy7/blob/master/UX_Journal2/Pictures/fullView.png)
 
 Here is a picture of the top view, it shows the UI and where the coffee goes. This machine allows you to make either single cups of coffee using a pod or make entire pots of coffee. The two bottom buttons are how you decide which type of coffee you would like to make.
   
