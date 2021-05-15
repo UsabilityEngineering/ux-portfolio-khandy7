@@ -3,6 +3,7 @@
 
 ## UX Team Project
 
+[Whirlpool - Improve your laundry experience](https://usabilityengineering.github.io/Whirlpool/)
 
 ## UX Journals
 
